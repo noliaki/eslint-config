@@ -17,16 +17,13 @@
   },
   "homepage": "https://github.com/noliaki/eslint-config#readme",
   "dependencies": {
-    "eslint-config-standard": "^14.1.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^10.0.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1"
   },
   "devDependencies": {
-    "eslint": "^6.4.0"
-  },
-  "publishConfig": {
-    "access": "public"
+    "eslint": "^7.3.1"
   }
 }
